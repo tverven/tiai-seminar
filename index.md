@@ -13,6 +13,7 @@ explainable AI.
 * Monthly seminars, always on a Thursday, 15.00 European Central Time / 9.00 am Eastern Standard Time
 * Zoom link: ...
 * Sign up for e-mail announcements: ...
+* Google calendar: ...
 
 Organizers:
 * Michal Moshkovitz
@@ -21,8 +22,5 @@ Organizers:
 
 ## Schedule
 
-| Date | Speaker | Title | Abstract |
-----
 | April 4 | Test | Something | A very, very interesting talk about the nature of things |
-
 
