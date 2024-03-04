@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 # Theory of Interpretable AI Seminar
 
 The Theory of Interpretable AI Seminar is an international online
@@ -18,4 +25,5 @@ Organizers:
 | Date | Speaker | Title | Abstract |
 ----
 | April 4 | Test | Something | A very, very interesting talk about the nature of things |
+
 
