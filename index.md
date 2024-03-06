@@ -22,15 +22,18 @@ Organizers:
 
 ## Schedule
 
-| April 4 | Test | Something | <details><summary>Abstract</summary><p> A very, very interesting talk about the nature of things </p></details>| 
+| April 4 | Sally Speaker | Cool Title | <details><summary>Abstract</summary><p> A very, very interesting talk about the nature of things </p></details>| 
 
 <table>
 <tr>
 <td>April 4</td>
 <td>Test</td>
 <td>Something</td>
-<td class="abstract">
-    A very, very interesting talk about the nature of things 
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>A very, very interesting talk about the nature of things</p>
+    </details>
 </td>
 </tr>
 </table>
