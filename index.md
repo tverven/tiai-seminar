@@ -10,8 +10,9 @@ The Theory of Interpretable AI Seminar is an international online
 seminar about the theoretical foundations of interpretable and
 explainable AI.
 
-* Monthly seminars, always on a Thursday, 15.00 Central European Time (CET) / 9.00 am Eastern Standard Time (EST)
-* Zoom link: ...
+* Every first Thursday of the month, 15.00 Central European Time (CET) /
+  9.00 am Eastern Standard Time (EST)
+* Zoom link: (https://uva-live.zoom.us/j/87120549999)[https://uva-live.zoom.us/j/87120549999]
 * Sign up for e-mail announcements: ...
 * Google calendar: ...
 
@@ -27,8 +28,8 @@ Organizers:
 <table>
 <tr>
 <td>April 4</td>
-<td>Test</td>
-<td>Something</td>
+<td>Sally Speaker</td>
+<td>Cool Title</td>
 <td>
     <details>
         <summary>Abstract</summary>
