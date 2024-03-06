@@ -22,7 +22,7 @@ Organizers:
 
 ## Schedule
 
-| April 4 | Test | Something | <details><summary>Abstract</summary><description> A very, very interesting talk about the nature of things </description></details>| 
+| April 4 | Test | Something | <details><summary>Abstract</summary><p> A very, very interesting talk about the nature of things </p></details>| 
 
 <table>
 <tr>
