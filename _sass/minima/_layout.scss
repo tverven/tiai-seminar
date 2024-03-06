@@ -1,8 +1,6 @@
 /**
  * Site header
  */
-
-/*
 .site-header {
   border-top: 5px solid $border-color-03;
   border-bottom: 1px solid $border-color-01;
@@ -12,17 +10,13 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
-*/
-.site-header {
-  display: none;
-}
 
 .site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
+  @include relative-font-size(0.625);
+  font-weight: 3;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  float: right;
 
   @include media-query($on-palm) {
     padding-right: 45px;
