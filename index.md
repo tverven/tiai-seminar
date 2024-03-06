@@ -10,16 +10,18 @@ The Theory of Interpretable AI Seminar is an international online
 seminar about the theoretical foundations of interpretable and
 explainable AI.
 
+## Practicalities
+
 * Monthly seminar, 15.00 Central European Time (CET) /
   9.00 am Eastern Standard Time (EST)
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up for e-mail announcements: ...
 * Google calendar: ...
 
-Organizers:
-* Michal Moshkovitz
-* Suraj Srinivas
-* Tim van Erven
+### Organizers:
+* [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
+* [Suraj Srinivas](https://suraj-srinivas.github.io/)
+* [Tim van Erven](https://www.timvanerven.nl/)
 
 ## Schedule
 
