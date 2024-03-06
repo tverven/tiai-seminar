@@ -4,6 +4,12 @@
 
 title: Theory of Interpretable AI Seminar
 layout: home
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 ---
 
 The Theory of Interpretable AI Seminar is an international online
