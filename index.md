@@ -24,3 +24,13 @@ Organizers:
 
 | April 4 | Test | Something | A very, very interesting talk about the nature of things |
 
+<table>
+<tr>
+<td>April 4</td>
+<td>Test</td>
+<td>Something</td>
+<td class="abstract">
+    A very, very interesting talk about the nature of things 
+</td>
+</tr>
+</table>
