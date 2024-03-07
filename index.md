@@ -27,7 +27,7 @@ explainable AI.
 
 <table>
 <tr>
-<td>May 2</td>
+<td>May&nbsp;2</td>
 <td>Sally Speaker</td>
 <td>Cool Title</td>
 <td>
@@ -40,7 +40,7 @@ explainable AI.
 
 
 <tr>
-<td>April 4</td>
+<td>April&nbsp;4</td>
 <td>Sally Speaker</td>
 <td>Cool Title</td>
 <td>
