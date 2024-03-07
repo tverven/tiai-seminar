@@ -27,6 +27,19 @@ explainable AI.
 
 <table>
 <tr>
+<td>May 2</td>
+<td>Sally Speaker</td>
+<td>Cool Title</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>A very, very interesting talk about the nature of things</p>
+    </details>
+</td>
+</tr>
+
+
+<tr>
 <td>April 4</td>
 <td>Sally Speaker</td>
 <td>Cool Title</td>
@@ -38,15 +51,4 @@ explainable AI.
 </td>
 </tr>
 
-<tr>
-<td>May 2</td>
-<td>Sally Speaker</td>
-<td>Cool Title</td>
-<td>
-    <details>
-        <summary>Abstract</summary>
-        <p>A very, very interesting talk about the nature of things</p>
-    </details>
-</td>
-</tr>
 </table>
