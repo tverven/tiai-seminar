@@ -15,8 +15,9 @@ explainable AI.
 * Monthly seminar, 15.00 Central European Time (CET) /
   9.00 am Eastern Standard Time (EST)
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
-* Sign up for e-mail announcements: [https://list.uva.nl/mailman/listinfo/tiai-seminar](https://list.uva.nl/mailman/listinfo/tiai-seminar)
-* Google calendar: ...
+* Sign up:
+    * [e-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
+    * Google calendar: ...
 
 ### Organizers:
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
