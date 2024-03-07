@@ -26,6 +26,8 @@ explainable AI.
 
 ## Schedule
 
+### 2024
+
 <table>
 
 <tr>
