@@ -17,7 +17,7 @@ explainable AI.
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
     * [e-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
-    * Google calendar: ...
+    * Google calendar
 
 ### Organizers:
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
