@@ -26,8 +26,21 @@ explainable AI.
 ## Schedule
 
 <table>
+
 <tr>
-<td>May&nbsp;2</td>
+<td>June&nbsp;6</td>
+<td>Sally Speaker</td>
+<td>Cool Title</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>A very, very interesting talk about the nature of things</p>
+    </details>
+</td>
+</tr>
+
+<tr>
+<td>May&nbsp;23</td>
 <td>Sally Speaker</td>
 <td>Cool Title</td>
 <td>
