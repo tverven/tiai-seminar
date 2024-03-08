@@ -6,9 +6,7 @@ title: Theory of Interpretable AI Seminar
 layout: home
 ---
 
-The Theory of Interpretable AI Seminar is an international online
-seminar about the theoretical foundations of interpretable and
-explainable AI.
+The seminar is an international online event focused on exploring the theoretical foundations of interpretable and explainable AI. Its goal is to exchange ideas and form a supportive community for those interested in the topic. 
 
 ## Practicalities
 
@@ -17,7 +15,7 @@ explainable AI.
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
     * [e-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
-    * Google calendar
+    * [Google calendar](https://calendar.google.com/calendar/u/1?cid=NTlhNjNhZDQ5ZmUxYmM5MmRmZTMwNzkwOWZhYjMyNTRhMzA4OGYwZTAxY2Q5MGU3NzQ2YjRlNWE0NzhmMzFkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### Organizers:
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
