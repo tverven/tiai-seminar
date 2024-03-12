@@ -5,9 +5,9 @@
 @import "minima";
 
 .site-title {
-  @include relative-font-size(4.00);
+  @include relative-font-size(1.8);
   font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 8.00;
+  line-height: $base-line-height * $base-font-size * 3.6;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
