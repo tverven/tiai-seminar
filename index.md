@@ -24,7 +24,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 ## Schedule
 
-### 2023/2024
+### 2024/2025
 
 <table>
 <tr>
@@ -50,7 +50,11 @@ The seminar is an international online event focused on exploring the theoretica
     </details>
 </td>
 </tr>
+</table>
 
+### 2023/2024
+
+<table>
 <tr>
 <td>July&nbsp;11</td>
 <td><a href="https://cseweb.ucsd.edu/~dasgupta/">Sanjoy Dasgupta</a></td>
