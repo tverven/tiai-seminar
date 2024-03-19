@@ -27,27 +27,62 @@ The seminar is an international online event focused on exploring the theoretica
 ### 2023/2024
 
 <table>
-
 <tr>
-<td>June&nbsp;6</td>
-<td>Sally Speaker</td>
-<td>Cool Title</td>
+<td>October&nbsp;10</td>
+<td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
+<td>...</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>A very, very interesting talk about the nature of things</p>
+        <p>...</p>
+    </details>
+</td>
+</tr>
+
+<tr>
+<td>September&nbsp;5</td>
+<td>TBA</td>
+<td>...</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>...</p>
+    </details>
+</td>
+</tr>
+
+<tr>
+<td>July&nbsp;11</td>
+<td><a href="https://cseweb.ucsd.edu/~dasgupta/">Sanjoy Dasgupta</a></td>
+<td>...</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>...</p>
+    </details>
+</td>
+</tr>
+
+<tr>
+<td>June&nbsp;20</td>
+<td>TBA</td>
+<td>...</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>...</p>
     </details>
 </td>
 </tr>
 
 <tr>
 <td>May&nbsp;23</td>
-<td>Sally Speaker</td>
-<td>Cool Title</td>
+<td>TBA</td>
+<td>...</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>A very, very interesting talk about the nature of things</p>
+        <p>...</p>
     </details>
 </td>
 </tr>
@@ -55,12 +90,12 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>April&nbsp;4</td>
-<td>Sally Speaker</td>
-<td>Cool Title</td>
+<td><a href="https://sites.google.com/view/damien-garreau/home">Damien Garreau</a></td>
+<td>...</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>A very, very interesting talk about the nature of things</p>
+        <p>...</p>
     </details>
 </td>
 </tr>
