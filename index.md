@@ -95,11 +95,26 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>April&nbsp;4</td>
 <td><a href="https://sites.google.com/view/damien-garreau/home">Damien Garreau</a></td>
-<td>...</td>
+<td>
+A Sea of Words: An In-Depth Analysis of Anchors for Text Data
+</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>
+        Anchors (Ribeiro et al., 2018) is a post-hoc, rule-based
+        interpretability method. For text data, it proposes to explain a
+        decision by highlighting a small set of words (an anchor) such
+        that the model to explain has similar outputs when they are
+        present in a document. In this talk, I will present a first
+        attempt to theoretically understand Anchors, considering that
+        the search for the best anchor is exhaustive. I will give
+        explicit results on shortcut models and linear models when the
+        vectorization step is TF-IDF, and word replacement is a fixed
+        out-of-dictionary token. 
+        <br>
+        Paper: <a href="https://proceedings.mlr.press/v206/lopardo23a.html">https://proceedings.mlr.press/v206/lopardo23a.html</a>
+        </p>
     </details>
 </td>
 </tr>
