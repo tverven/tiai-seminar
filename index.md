@@ -14,7 +14,7 @@ The seminar is an international online event focused on exploring the theoretica
   9.00 am Eastern Standard Time (EST)
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
-    * [e-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
+    * [E-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
     * [Google calendar](https://calendar.google.com/calendar/u/1?cid=NTlhNjNhZDQ5ZmUxYmM5MmRmZTMwNzkwOWZhYjMyNTRhMzA4OGYwZTAxY2Q5MGU3NzQ2YjRlNWE0NzhmMzFkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ### Organizers:
