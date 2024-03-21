@@ -80,7 +80,7 @@ The seminar is an international online event focused on exploring the theoretica
 </tr>
 
 <tr>
-<td>May&nbsp;23</td>
+<td>May&nbsp;7</td>
 <td>TBA</td>
 <td>...</td>
 <td>
