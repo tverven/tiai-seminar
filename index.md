@@ -81,7 +81,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>May&nbsp;7</td>
-<td>TBA</td>
+<td>Hidde Fokkema</td>
 <td>...</td>
 <td>
     <details>
