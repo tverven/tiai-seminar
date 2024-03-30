@@ -41,7 +41,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>September&nbsp;5</td>
-<td>Lesia Semenova</td>
+<td><a href="https://users.cs.duke.edu/~lesia/">Lesia Semenova</a></td>
 <td>...</td>
 <td>
     <details>
