@@ -41,7 +41,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>September&nbsp;5</td>
-<td>TBA</td>
+<td>Lesia Semenova</td>
 <td>...</td>
 <td>
     <details>
