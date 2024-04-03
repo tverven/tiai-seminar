@@ -82,11 +82,37 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>May&nbsp;7</td>
 <td><a href="https://hidde-fokkema.com/">Hidde Fokkema</a></td>
-<td>...</td>
+<td>Attribution-based Explanations that Provide Recourse Cannot be Robust</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>Since most machine learning systems are not inherently
+        interpretable, a class of explainable machine learning methods
+        try to attribute importance of the input features to the outcome
+        of the model. We show that two often proposed requirements of
+        good attribution-based explanations are actually mathematically
+        incompatible. The first requirement is to provide recourse to
+        users: if the user is unhappy with the decision, the explanation
+        should tell them what they would need to change to improve the
+        decision. The second requirement is robustness: small changes in
+        a user's features (e.g. due to rounding or measurement errors)
+        should not cause large changes in the explanations. We show that
+        no method can always provide recourse and be robust, even though
+        both properties can be guaranteed individually. For some
+        restricted set of models, it is still possible for an
+        attribution method to be robust and provide recourse and I will
+        discuss some examples where this occurs. However, the message
+        will be that these classes are often simple enough that they do
+        not warrant an explanation. I will further illustrate our
+        findings with counterexamples to at least one of the
+        requirements for popular explanation methods like SHAP, LIME,
+        Integrated Gradients and SmoothGrad.
+        <br>
+        This talk is based on joint work with Rianne de Heide and Tim van Erven.
+        <br>
+        Paper: 
+        <a href="https://jmlr.org/papers/v24/23-0042.html">https://jmlr.org/papers/v24/23-0042.html</a>
+        </p>
     </details>
 </td>
 </tr>
