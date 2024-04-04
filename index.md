@@ -69,7 +69,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>June&nbsp;20</td>
-<td>TBA</td>
+<td><a href="http://www.blairbilodeau.ca/">Blair Bilodeau</a></td>
 <td>...</td>
 <td>
     <details>
