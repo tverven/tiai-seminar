@@ -70,11 +70,29 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>June&nbsp;20</td>
 <td><a href="http://www.blairbilodeau.ca/">Blair Bilodeau</a></td>
-<td>...</td>
+<td>Impossibility Theorems for Feature Attribution</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>Despite a sea of interpretability methods that can produce 
+          plausible explanations, the field has also empirically seen 
+          many failure cases of such methods. In light of these results,
+          it remains unclear for practitioners how to use these methods 
+          and choose between them in a principled way. In this paper, we 
+          show that for moderately rich model classes (easily satisfied 
+          by neural networks), any feature attribution method that is 
+          complete and linear—for example, Integrated Gradients and SHAP—can
+          provably fail to improve on random guessing for inferring model 
+          behaviour. Our results apply to common end-tasks such as 
+          characterizing local model behaviour, identifying spurious 
+          features, and algorithmic recourse. One takeaway from our work is
+          the importance of concretely defining end-tasks: once such an 
+          end-task is defined, a simple and direct approach of repeated 
+          model evaluations can outperform many other complex feature 
+          attribution methods.
+          Paper: 
+          <a href="https://arxiv.org/abs/2212.11870">https://arxiv.org/abs/2212.11870</a>  
+  </p>
     </details>
 </td>
 </tr>
