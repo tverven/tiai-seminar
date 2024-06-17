@@ -58,11 +58,23 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>July&nbsp;11</td>
 <td><a href="https://cseweb.ucsd.edu/~dasgupta/">Sanjoy Dasgupta</a></td>
-<td>...</td>
+<td>Recent progress on interpretable clustering</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>The widely-used k-means procedure returns k clusters that have arbitrary
+convex shapes. In high dimension, such a clustering might not be easy
+to understand. A more interpretable alternative is to constraint the
+clusters to be the leaves of a decision tree with axis-parallel splits;
+then each cluster is a hyper-rectangle given by a small number of features.
+
+Is it always possible to find clusterings that are intepretable in this
+sense and yet have k-means cost that is close to the unconstrained optimum?
+A recent line of work has answered this in the affirmative and moreover
+shown that these interpretable clusterings are easy to construct.
+
+I will give a survey of these results: algorithms, methods of analysis,
+and open problems.</p>
     </details>
 </td>
 </tr>
