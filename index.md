@@ -107,6 +107,7 @@ and open problems.</p>
   </p>
     </details>
 </td>
+  <td><a href="https://youtu.be/tmNb_FNpbYY">Video recording</a></td>
 </tr>
 
 <tr>
