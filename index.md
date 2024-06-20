@@ -64,7 +64,7 @@ The seminar is an international online event focused on exploring the theoretica
         <summary>Abstract</summary>
         <p>The widely-used k-means procedure returns k clusters that have arbitrary
 convex shapes. In high dimension, such a clustering might not be easy
-to understand. A more interpretable alternative is to constraint the
+to understand. A more interpretable alternative is to constrain the
 clusters to be the leaves of a decision tree with axis-parallel splits;
 then each cluster is a hyper-rectangle given by a small number of features.
 
