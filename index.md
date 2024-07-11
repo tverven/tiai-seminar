@@ -77,6 +77,7 @@ I will give a survey of these results: algorithms, methods of analysis,
 and open problems.</p>
     </details>
 </td>
+<td><a href="https://youtu.be/WzzZXLIhVtk">Video recording</a></td>
 </tr>
 
 <tr>
@@ -107,7 +108,7 @@ and open problems.</p>
   </p>
     </details>
 </td>
-  <td><a href="https://youtu.be/tmNb_FNpbYY">Video recording</a></td>
+<td><a href="https://youtu.be/tmNb_FNpbYY">Video recording</a></td>
 </tr>
 
 <tr>
