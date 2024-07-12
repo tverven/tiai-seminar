@@ -28,6 +28,18 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
 <tr>
+<td>November&nbsp;7?</td>
+<td><a href="https://www.andrew.cmu.edu/user/aristesk/">Andrej Risteski</a></td>
+<td>...</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>...</p>
+    </details>
+</td>
+</tr>
+
+<tr>
 <td>October&nbsp;10</td>
 <td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
 <td>...</td>
