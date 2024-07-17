@@ -29,6 +29,18 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
 <tr>
+<td>November&nbsp;7 (tentative)</td>
+<td><a href="https://www.andrew.cmu.edu/user/aristesk/">Andrej Risteski</a></td>
+<td>...</td>
+<td>
+    <details>
+        <summary>Abstract</summary>
+        <p>...</p>
+    </details>
+</td>
+</tr>
+
+<tr>
 <td>October&nbsp;10</td>
 <td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
 <td>...</td>
@@ -59,25 +71,57 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>July&nbsp;11</td>
 <td><a href="https://cseweb.ucsd.edu/~dasgupta/">Sanjoy Dasgupta</a></td>
-<td>...</td>
+<td>Recent progress on interpretable clustering</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>The widely-used k-means procedure returns k clusters that have arbitrary
+convex shapes. In high dimension, such a clustering might not be easy
+to understand. A more interpretable alternative is to constrain the
+clusters to be the leaves of a decision tree with axis-parallel splits;
+then each cluster is a hyper-rectangle given by a small number of features.
+
+Is it always possible to find clusterings that are intepretable in this
+sense and yet have k-means cost that is close to the unconstrained optimum?
+A recent line of work has answered this in the affirmative and moreover
+shown that these interpretable clusterings are easy to construct.
+
+I will give a survey of these results: algorithms, methods of analysis,
+and open problems.</p>
     </details>
 </td>
+<td><a href="https://youtu.be/WzzZXLIhVtk">Video recording</a></td>
 </tr>
 
 <tr>
 <td>June&nbsp;20</td>
-<td>TBA</td>
-<td>...</td>
+<td><a href="http://www.blairbilodeau.ca/">Blair Bilodeau</a></td>
+<td>Impossibility Theorems for Feature Attribution</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>Despite a sea of interpretability methods that can produce 
+          plausible explanations, the field has also empirically seen 
+          many failure cases of such methods. In light of these results,
+          it remains unclear for practitioners how to use these methods 
+          and choose between them in a principled way. In this paper, we 
+          show that for moderately rich model classes (easily satisfied 
+          by neural networks), any feature attribution method that is 
+          complete and linear—for example, Integrated Gradients and SHAP—can
+          provably fail to improve on random guessing for inferring model 
+          behaviour. Our results apply to common end-tasks such as 
+          characterizing local model behaviour, identifying spurious 
+          features, and algorithmic recourse. One takeaway from our work is
+          the importance of concretely defining end-tasks: once such an 
+          end-task is defined, a simple and direct approach of repeated 
+          model evaluations can outperform many other complex feature 
+          attribution methods.
+          Paper: 
+          <a href="https://arxiv.org/abs/2212.11870">https://arxiv.org/abs/2212.11870</a>  
+  </p>
     </details>
 </td>
+<td><a href="https://youtu.be/tmNb_FNpbYY">Video recording</a></td>
 </tr>
 
 <tr>
@@ -116,6 +160,7 @@ The seminar is an international online event focused on exploring the theoretica
         </p>
     </details>
 </td>
+<td><a href="https://youtu.be/EwwllG40XZM">Video recording</a></td>
 </tr>
 
 
