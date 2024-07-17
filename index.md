@@ -16,6 +16,7 @@ The seminar is an international online event focused on exploring the theoretica
 * Sign up:
     * [E-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
     * [Google calendar](https://calendar.google.com/calendar/u/1?cid=NTlhNjNhZDQ5ZmUxYmM5MmRmZTMwNzkwOWZhYjMyNTRhMzA4OGYwZTAxY2Q5MGU3NzQ2YjRlNWE0NzhmMzFkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+* [YouTube channel](https://www.youtube.com/@TheoryofInterpretableAISeminar) 
 
 ### Organizers:
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
