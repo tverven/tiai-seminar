@@ -55,11 +55,36 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>September&nbsp;5</td>
 <td><a href="https://users.cs.duke.edu/~lesia/">Lesia Semenova</a></td>
-<td>...</td>
+<td>On the existence of simpler-yet-accurate machine learning models</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>In high-stakes decision domains such as healthcare, lending,
+        and criminal justice, the predictions made by deployed AI
+        systems can significantly impact human lives. Understanding why
+        models make specific predictions is as crucial as ensuring their
+        good performance, making interpretability a key component of a
+        trustworthy decision-making process. However, there has been a
+        longstanding belief in the community that there is a trade-off
+        between accuracy and interpretability. In this talk, I will
+        formally demonstrate that such a trade-off does not hold for
+        many datasets in high-stakes decision domains and that simpler
+        models often perform as well as black-box models. Specifically,
+        I will present a mechanism of the data generation process,
+        combined with the choices typically made by analysts during the
+        learning process, that leads to the existence of
+        simpler-yet-accurate models.</p>
+
+        <p><strong>Bio:</strong> Lesia Semenova is a postdoctoral researcher at Microsoft
+        Research, NYC. She completed her PhD at Duke University and,
+        prior to that, worked at the Samsung R&D Institute Ukraine. Her
+        research interests span interpretable machine learning,
+        responsible and trustworthy AI, reinforcement learning,
+        reasoning, and AI in healthcare. The student teams she has
+        coached won the ASA Data Challenge Expo twice and placed third
+        in a competition on scholarly document processing. She was
+        selected as one of the 2024 Rising Stars in Computational and
+        Data Sciences.</p>
     </details>
 </td>
 </tr>
