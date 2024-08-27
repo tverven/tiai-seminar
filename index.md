@@ -54,7 +54,7 @@ The seminar is an international online event focused on exploring the theoretica
 
 <tr>
 <td>September&nbsp;5</td>
-<td><a href="https://users.cs.duke.edu/~lesia/">Lesia Semenova</a></td>
+<td><a href="https://scholar.google.com/citations?user=0O3TE70AAAAJ">Lesia Semenova</a></td>
 <td>On the existence of simpler-yet-accurate machine learning models</td>
 <td>
     <details>
