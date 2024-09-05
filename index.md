@@ -87,6 +87,7 @@ The seminar is an international online event focused on exploring the theoretica
         Data Sciences.</p>
     </details>
 </td>
+<td><a href="https://youtu.be/PtUauSBcHuc">Video recording</a></td>
 </tr>
 </table>
 
