@@ -41,8 +41,8 @@ The seminar is an international online event focused on exploring the theoretica
 </tr>
 
 <tr>
-<td>October&nbsp;10</td>
-<td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
+<td>October&nbsp;17</td>
+<td><a href="https://robibhatt.github.io/">Robi Bhattacharjee</a></td>
 <td>...</td>
 <td>
     <details>
