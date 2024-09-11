@@ -53,7 +53,7 @@ The seminar is an international online event focused on exploring the theoretica
 </tr>
   
 <tr>
-<td>November&nbsp;7 (tentative)</td>
+<td>November&nbsp;7</td>
 <td><a href="https://www.andrew.cmu.edu/user/aristesk/">Andrej Risteski</a></td>
 <td>...</td>
 <td>
@@ -67,11 +67,30 @@ The seminar is an international online event focused on exploring the theoretica
 <tr>
 <td>October&nbsp;17</td>
 <td><a href="https://robibhatt.github.io/">Robi Bhattacharjee</a></td>
-<td>...</td>
+<td>Auditing Local Explanations is Hard</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>In sensitive contexts, providers of machine learning algorithms are  
+increasingly required to give explanations for their algorithms'  
+decisions. However, explanation receivers might not trust the  
+provider, who potentially could output misleading or manipulated  
+explanations. In this work, we investigate an auditing framework in  
+which a third-party auditor or a collective of users attempts to  
+sanity-check explanations: they can query model decisions and the  
+corresponding local explanations, pool all the information received,  
+and then check for basic consistency properties. We prove upper and  
+lower bounds on the amount of queries that are needed for an auditor  
+to succeed within this framework. Our results show that successful  
+auditing requires a potentially exorbitant number of queries --  
+particularly in high dimensional cases. Our analysis also reveals that  
+a key property is the ``locality'' of the provided explanations -- a  
+quantity that so far has not been paid much attention to in the  
+explainability literature. Looking forward, our results suggest that  
+for complex high-dimensional settings, merely providing a pointwise  
+prediction and explanation could be insufficient, as there is no way  
+for the users to verify that the provided explanations are not  
+completely made-up.</p>
     </details>
 </td>
 </tr>
