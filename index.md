@@ -93,6 +93,7 @@ for the users to verify that the provided explanations are not
 completely made-up.</p>
     </details>
 </td>
+<td><a href="https://youtu.be/40XZ_QAU1Mw">Video recording</a></td>
 </tr>
 
 <tr>
