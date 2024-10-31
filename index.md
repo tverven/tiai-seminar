@@ -28,6 +28,18 @@ The seminar is an international online event focused on exploring the theoretica
 ### 2024/2025
 
 <table>
+    <tr>
+    <td>February&nbsp;4</td>
+    <td><a href="https://sites.google.com/view/jsulam">Jeremias Sulam</a></td>
+    <td>...</td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p>...</p>
+        </details>
+    </td>
+    </tr>
+
   <tr>
 <td>January &nbsp;9</td>
 <td><a href="https://www.tau.ac.il/~mansour/">Yishay Mansour</a></td>
