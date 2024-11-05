@@ -65,7 +65,7 @@ The seminar is an international online event focused on exploring the theoretica
 </tr>
   
 <tr>
-<td>November&nbsp;7</td>
+<td>November&nbsp;?</td>
 <td><a href="https://www.andrew.cmu.edu/user/aristesk/">Andrej Risteski</a></td>
 <td>...</td>
 <td>
