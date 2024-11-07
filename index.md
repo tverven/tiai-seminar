@@ -10,8 +10,9 @@ The seminar is an international online event focused on exploring the theoretica
 
 ## Practicalities
 
-* Monthly seminar, 15.00 Central European Time (CET) /
-  9.00 am Eastern Standard Time (EST)
+* Monthly seminar, 16.00 Central European Time (CET) /
+  10.00 am Eastern Standard Time (EST) <em>NB: One hour later than
+  before!</em>
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
     * [E-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
@@ -63,15 +64,40 @@ The seminar is an international online event focused on exploring the theoretica
     </details>
 </td>
 </tr>
-  
+
 <tr>
-<td>November&nbsp;?</td>
+<td>November&nbsp;18</td>
 <td><a href="https://www.andrew.cmu.edu/user/aristesk/">Andrej Risteski</a></td>
-<td>...</td>
+<td>Discernible patterns in trained Transformers: a view from simple linguistic sandboxes</td>
 <td>
     <details>
         <summary>Abstract</summary>
-        <p>...</p>
+        <p>Inspecting learned models for intelligible patterns has
+        become a common way to try to reverse-engineer the algorithm
+        that a model is implementing. In this talk, I will present two
+        case studies, in which we analyze the patterns that emerge when
+        training Transformer-based models on data isolating simple
+        linguistic abstractions of semantics and syntax: topic models
+        and context-free grammars. Concretely, topic models are a simple
+        bag-of-words model in which co-occurrence patterns of words
+        capture a simple notion of semantic correlation; context-free
+        grammars are a formal language encoding parsing structure
+        induced by grammatical rules. In the former case, we show that
+        simple, one-layer attention Transformers trained with gradient
+        descent learn to encode the co-occurrence structure in a natural
+        way in the attention patterns, as well as the value matrix. In
+        the latter case, we show that the set of optima of the standard
+        autoregressive loss---<em>even</em> for very simple Transformer models,
+        <em>even</em> with "natural" choices of token embeddings --- is
+        qualitatively rich. In particular, the attention pattern of a
+        single layer can be “nearly randomized”, while preserving the
+        functionality of the network --- rendering "myopic" methods of
+        inspecting individual heads or weight matrices in the
+        Transformer misleading.
+        <br>
+        Based on
+        <a href="https://arxiv.org/abs/2303.04245">https://arxiv.org/abs/2303.04245</a> and
+        <a href="https://arxiv.org/abs/2312.01429">https://arxiv.org/abs/2312.01429</a>.</p>
     </details>
 </td>
 </tr>
