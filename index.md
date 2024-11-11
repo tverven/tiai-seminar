@@ -32,17 +32,29 @@ The seminar is an international online event focused on exploring the theoretica
     <tr>
     <td>February&nbsp;4</td>
     <td><a href="https://sites.google.com/view/jsulam">Jeremias Sulam</a></td>
-    <td>...</td>
+    <td>Testing Semantic Importance via Conditional Independence and Betting</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p>...</p>
+            <p>In recent years, the demand for interpretable machine
+            learning models has surged, particularly in high-stakes
+            domains, and a growing collection of methods exist to
+            attempt to ‘explain’ off-the-shelf predictors. Yet, it often
+            remains unclear how to interpret the reported importance of
+            features or concepts. This talk reexamines interpretability
+            through the lens of conditional independence tests, offering
+            answers with precise statistical guarantees, including
+            control over type 1 error and false discovery rate. We
+            introduce methods based on online testing—or testing by
+            betting—to rank importance across both input features and
+            semantic constructs, and explore connections to
+            game-theoretic approaches for explanation.</p>
         </details>
     </td>
     </tr>
 
   <tr>
-<td>January &nbsp;9</td>
+<td>January&nbsp;9</td>
 <td><a href="https://www.tau.ac.il/~mansour/">Yishay Mansour</a></td>
 <td>A Theory of Interpretable Approximations</td>
 <td>
