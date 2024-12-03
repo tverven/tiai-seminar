@@ -54,7 +54,7 @@ The seminar is an international online event focused on exploring the theoretica
     </tr>
 
   <tr>
-<td>January&nbsp;9</td>
+<td>January&nbsp;16</td>
 <td><a href="https://www.tau.ac.il/~mansour/">Yishay Mansour</a></td>
 <td>A Theory of Interpretable Approximations</td>
 <td>
