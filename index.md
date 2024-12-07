@@ -30,6 +30,18 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
     <tr>
+    <td>March&nbsp;4</td>
+    <td><a href="https://atticusg.github.io/">Atticus Geiger</a></td>
+    <td>The Current State of Interpretability and Ideas for Scaling Up</td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p> Interpretability has delivered us tools that researchers can use to predict, control, and understand the behavior of deep learning models in limited domains. Now is the time to automate and scale these methods in order to provide a more comprehensive understanding of general purpose capabilities. However, the current paradigm of sparse autoencoders fails to make good on the tools and theories from causality that are key for mechanistic understanding. I argue for an alternative route that leverages interventional data (i.e., hidden representations after an intervention has been performed) to scale the task of controlling and understanding a deep learning model. </p>
+        </details>
+    </td>
+    </tr>
+  
+  <tr>
     <td>February&nbsp;4</td>
     <td><a href="https://sites.google.com/view/jsulam">Jeremias Sulam</a></td>
     <td>Testing Semantic Importance via Conditional Independence and Betting</td>
