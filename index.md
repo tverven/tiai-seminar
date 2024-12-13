@@ -15,7 +15,7 @@ The seminar is an international online event focused on exploring the theoretica
   <br><b>NB: One hour later than before!</b>
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
-    * [E-mail announcements](https://list.uva.nl/mailman/listinfo/tiai-seminar)
+    * [E-mail announcements](https://list.uva.nl/postorius/lists/tiai-seminar.list.uva.nl/)
     * [Google calendar](https://calendar.google.com/calendar/u/1?cid=NTlhNjNhZDQ5ZmUxYmM5MmRmZTMwNzkwOWZhYjMyNTRhMzA4OGYwZTAxY2Q5MGU3NzQ2YjRlNWE0NzhmMzFkMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 * [YouTube channel](https://www.youtube.com/@TheoryofInterpretableAISeminar) 
 
