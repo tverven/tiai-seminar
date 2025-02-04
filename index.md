@@ -63,6 +63,7 @@ The seminar is an international online event focused on exploring the theoretica
             game-theoretic approaches for explanation.</p>
         </details>
     </td>
+<td><a href="https://youtu.be/cx7wTtRdhnA">Video recording</a></td>
     </tr>
 
   <tr>
