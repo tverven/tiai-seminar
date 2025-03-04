@@ -30,6 +30,18 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
     <tr>
+    <td>April&nbsp;8</td>
+    <td><a href="https://muttimirco.github.io/">Mirco Mutti</a></td>
+    <td></td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p></p>
+        </details>
+    </td>
+    </tr>
+
+    <tr>
     <td>March&nbsp;4</td>
     <td><a href="https://atticusg.github.io/">Atticus Geiger</a></td>
     <td>The Current State of Interpretability and Ideas for Scaling Up</td>
