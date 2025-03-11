@@ -41,7 +41,10 @@ The seminar is an international online event focused on exploring the theoretica
     </tr>
 
     <tr>
-    <td>March&nbsp;12</td>
+    <td>March&nbsp;12
+    <br>
+    <strong>4PM CET / 11AM EST</strong>
+    </td>
     <td><a href="https://atticusg.github.io/">Atticus Geiger</a></td>
     <td>The Current State of Interpretability and Ideas for Scaling Up</td>
     <td>
