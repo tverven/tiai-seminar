@@ -12,7 +12,6 @@ The seminar is an international online event focused on exploring the theoretica
 
 * Monthly seminar, 16.00 Central European Time (CET) /
   10.00 am Eastern Standard Time (EST)
-  <br><b>NB: One hour later than before!</b>
 * Zoom link: [https://uva-live.zoom.us/j/87120549999](https://uva-live.zoom.us/j/87120549999)
 * Sign up:
     * [E-mail announcements](https://list.uva.nl/postorius/lists/tiai-seminar.list.uva.nl/)
