@@ -29,6 +29,18 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
     <tr>
+    <td>June&nbsp;3</td>
+    <td><a href="https://zbh2047.github.io/">Bohang Zhang</a></td>
+    <td></td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p></p>
+        </details>
+    </td>
+  </tr>
+
+  <tr>
     <td>April&nbsp;8</td>
     <td><a href="https://muttimirco.github.io/">Mirco Mutti</a></td>
     <td>A Classification View on Meta Learning Bandits</td>
@@ -57,7 +69,7 @@ a nearly matching lower bound, we show that C_lambda(M) inherently
 captures the complexity of the setting.</p>
         </details>
     </td>
-    </tr>
+  </tr>
 
   <tr>
     <td>March&nbsp;12</td>
