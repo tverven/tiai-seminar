@@ -31,11 +31,30 @@ The seminar is an international online event focused on exploring the theoretica
     <tr>
     <td>April&nbsp;8</td>
     <td><a href="https://muttimirco.github.io/">Mirco Mutti</a></td>
-    <td></td>
+    <td>A Classification View on Meta Learning Bandits</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>Contextual multi-armed bandits are a popular choice to model
+sequential decision-making. E.g., in a healthcare application we may
+perform various tests to assess a patient's condition (exploration)
+and then decide on the best treatment to give (exploitation). When
+human design strategies, they aim for the exploration to be fast,
+since the patient’s health is at stake, and easy to interpret for a
+physician overseeing the process. However, common bandit algorithms
+are nothing like that: The regret caused by exploration scales with
+sqrt(H) over H rounds and decision strategies are based on opaque
+statistical considerations. In this paper, we use an original
+classification view to meta learn interpretable and fast exploration
+plans for a fixed collection of bandits M. The plan is prescribed by
+an interpretable decision tree probing decisions’ payoff to classify
+the test bandit. The test regret of the plan in the stochastic and
+contextual setting scales with O(lambda^{−2}C_lambda(M) log^2(mH)),
+being m the size of M, lambda a separation parameter over the
+bandits, and C_lambda(M) a novel classification-coefficient that
+fundamentally links meta learning bandits with classification. Through
+a nearly matching lower bound, we show that C_lambda(M) inherently
+captures the complexity of the setting.</p>
         </details>
     </td>
     </tr>
