@@ -120,7 +120,7 @@ a nearly matching lower bound, we show that C_lambda(M) inherently
 captures the complexity of the setting.</p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/pNos7AHGMXw">Video recording</a></td>
   </tr>
 
   <tr>
