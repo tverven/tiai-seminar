@@ -25,6 +25,22 @@ The seminar is an international online event focused on exploring the theoretica
 
 ## Schedule
 
+### 2025/2026
+
+<table>
+    <tr>
+    <td>September&nbsp;9</td>
+    <td><a href="https://tleemann.de/">Tobias Leemann</a></td>
+    <td></td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p></p>
+        </details>
+    </td>
+  </tr>
+</table>
+
 ### 2024/2025
 
 <table>
