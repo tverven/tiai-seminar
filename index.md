@@ -38,6 +38,7 @@ The seminar is an international online event focused on exploring the theoretica
             <p></p>
         </details>
     </td>
+    <td></td>
   </tr>
 </table>
 
@@ -54,6 +55,7 @@ The seminar is an international online event focused on exploring the theoretica
             <p></p>
         </details>
     </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -86,6 +88,7 @@ The seminar is an international online event focused on exploring the theoretica
             different contributions.</p>
         </details>
     </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -117,6 +120,7 @@ a nearly matching lower bound, we show that C_lambda(M) inherently
 captures the complexity of the setting.</p>
         </details>
     </td>
+    <td></td>
   </tr>
 
   <tr>
