@@ -43,11 +43,31 @@ The seminar is an international online event focused on exploring the theoretica
   <tr>
     <td>May&nbsp;6</td>
     <td><a href="https://gunnarkoenig.com/">Gunnar König</a></td>
-    <td></td>
+    <td>Disentangling Interactions and Dependencies in Feature Attribution</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>In explainable machine learning, global feature
+            importance methods try to determine how much each individual
+            feature contributes to predicting the target variable,
+            resulting in one importance score for each feature. But
+            often, predicting the target variable requires interactions
+            between several features (such as in the XOR function), and
+            features might have complex statistical dependencies that
+            allow to partially replace one feature with another one. In
+            commonly used feature importance scores these cooperative
+            effects are conflated with the features' individual
+            contributions, making them prone to misinterpretations.</p>
+
+            <p>In the talk, I will introduce DIP, a new mathematical
+            decomposition of individual feature importance scores that
+            disentangles three components: the standalone contribution
+            and the contributions stemming from interactions and
+            dependencies. The decomposition is unique under mild
+            assumptions and entails a simple estimation procedure. Along
+            with the decomposition we suggest a new visualization of
+            feature importance scores that clearly illustrates the
+            different contributions.</p>
         </details>
     </td>
   </tr>
