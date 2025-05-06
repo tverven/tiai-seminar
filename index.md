@@ -88,7 +88,7 @@ The seminar is an international online event focused on exploring the theoretica
             different contributions.</p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/7MrMjabTbuM">Video recording</a></td>
   </tr>
 
   <tr>
