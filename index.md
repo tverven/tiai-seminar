@@ -48,10 +48,35 @@ The seminar is an international online event focused on exploring the theoretica
     <tr>
     <td>June&nbsp;3</td>
     <td><a href="https://zbh2047.github.io/">Bohang Zhang</a></td>
-    <td></td>
+    <td>Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective</td>
     <td>
         <details>
             <summary>Abstract</summary>
+            Chain-of-Thought prompting (CoT) is an important technique
+            that can dramatically improve the performance of Large
+            Language Models (LLMs), particularly when dealing with
+            complex tasks involving mathematics or reasoning. In this
+            talk, I will demystify the role of CoT in LLMs via a
+            theoretical viewpoint, specifically by focusing on the
+            expressivity of LLMs with CoT in solving fundamental
+            mathematical and decision-making problems. By using circuit
+            complexity theory, we first derive impossibility results
+            showing that bounded-depth Transformers are unable to
+            directly produce correct answers for basic
+            arithmetic/equation tasks unless the model size grows
+            super-polynomially with respect to the input length. In
+            contrast, we then prove by construction that autoregressive
+            Transformers of constant size suffice to solve both tasks by
+            generating CoT derivations using a commonly used math
+            language format. Moreover, we show LLMs with CoT can handle
+            a general class of decision-making problems known as Dynamic
+            Programming, thus justifying their power in tackling complex
+            real-world tasks. We will also make discussions on how
+            architectural choices influence the effectiveness of CoT.
+            Finally, an extensive set of experiments show that, while
+            Transformers always fail to directly predict the answers,
+            they can consistently learn to generate correct solutions
+            step-by-step given sufficient CoT demonstrations.
             <p></p>
         </details>
     </td>
