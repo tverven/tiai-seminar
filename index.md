@@ -38,7 +38,7 @@ The seminar is an international online event focused on exploring the theoretica
             <p>In this talk, we explore two foundational properties of
             post-hoc explanations: identifiability — the ability to
             uniquely recover known ground truth concepts or relations
-            from explanations—and representational power — the capacity
+            from explanations — and representational power — the capacity
             to faithfully approximate a complex set of model behaviors.
             We theoretically and empirically examine how these
             principles manifest in two types of explanations: conceptual
