@@ -31,11 +31,37 @@ The seminar is an international online event focused on exploring the theoretica
     <tr>
     <td>September&nbsp;9</td>
     <td><a href="https://tleemann.de/">Tobias Leemann</a></td>
-    <td></td>
+    <td>On Identifiability and Representational Power of Post-Hoc Explanations</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>In this talk, we explore two foundational properties of
+            post-hoc explanations: identifiability — the ability to
+            uniquely recover known ground truth concepts or relations
+            from explanations—and representational power — the capacity
+            to faithfully approximate a complex set of model behaviors.
+            We theoretically and empirically examine how these
+            principles manifest in two types of explanations: conceptual
+            explanations and surrogate model-based feature attributions,
+            such as LIME. Conceptual explanation methods provide
+            post-hoc explanations for decisions by complex models in
+            terms of interpretable concepts like object shape or color.
+            We analyze the conditions under which interpretable concepts
+            (e.g., shape or color) can be uniquely identified,
+            especially in unsupervised settings where no human
+            annotations are available. In the context of feature
+            attribution, we demonstrate that widely used techniques
+            (e.g., LIME, LRP) often induce implicit linear surrogates
+            that poorly align with models like transformers, the
+            architecture underlying modern LLMs. We show that
+            transformers inherently struggle to represent simple linear
+            functions and propose SLALOM (Softmax-Linked Additive
+            Log-Odds Model), a surrogate better suited to their
+            architecture. We prove identifiability properties. Our
+            results characterize the trade-off between representational
+            power and conditions under which unique identifiability can
+            be guaranteed, thereby providing a theoretical foundation
+            for reliable XAI.</p>
         </details>
     </td>
     <td></td>
