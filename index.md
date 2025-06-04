@@ -106,7 +106,7 @@ The seminar is an international online event focused on exploring the theoretica
             <p></p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/nCR8hWgvwTI?feature=shared">Video recording</a></td>
   </tr>
 
   <tr>
