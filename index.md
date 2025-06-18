@@ -41,6 +41,44 @@ The seminar is an international online event focused on exploring the theoretica
     <td></td>
   </tr>
 
+    <tr>
+    <td>September&nbsp;30</td>
+    <td><a href="https://bassanshahaf.github.io/shahaf.bassan.github.io/">Shahaf Bassan</a></td>
+    <td>The Computational Complexity of Explaining ML Models</td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p>Abstract: How hard is it to generate various types of
+            explanations for different ML models? In this talk, we will
+            explore the computational complexity involved in producing a
+            wide range of explanations - each with distinct provable
+            guarantees - for many popular ML models such as neural
+            networks, decision trees, tree ensembles, and linear models.
+            We will examine the key factors influencing this complexity,
+            including the model architecture, the nature of the
+            explanations, and any underlying distributional assumptions.
+            Additionally, we will identify scenarios where generating
+            such explanations becomes computationally intractable or
+            infeasible, as well as cases where efficient algorithms or
+            practical approximations can be employed to obtain them.</p>
+
+            <p>Bio: I’m Shahaf, a PhD student at the Hebrew University
+            of Jerusalem specializing in explainable AI and
+            interpretability. My research focuses on developing
+            explanation techniques with formally provable guarantees, at
+            the intersection of explainability, formal verification, and
+            ML theory. My work spans both theoretical foundations and
+            practical applications. I’ve presented my research at
+            leading conferences in formal verification (e.g., TACAS) and
+            machine learning (e.g., ICML, ICLR). My aim is to strengthen
+            trust in ML models by delivering trustworthy, verifiable
+            explanations and establishing a solid theoretical and
+            mathematical basis for understanding AI explainability and
+            interpretability.</p>
+        </details>
+    </td>
+    <td></td>
+  </tr>
 
 
     <tr>
