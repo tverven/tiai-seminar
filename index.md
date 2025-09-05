@@ -42,7 +42,7 @@ The seminar is an international online event focused on exploring the theoretica
   </tr>
 
     <tr>
-    <td>September&nbsp;30</td>
+    <td>October&nbsp;21</td>
     <td><a href="https://bassanshahaf.github.io/shahaf.bassan.github.io/">Shahaf Bassan</a></td>
     <td>The Computational Complexity of Explaining ML Models</td>
     <td>
