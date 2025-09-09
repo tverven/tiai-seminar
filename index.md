@@ -117,6 +117,7 @@ The seminar is an international online event focused on exploring the theoretica
             for reliable XAI.</p>
         </details>
     </td>
+    <td><a href="https://youtu.be/IZ4m_II3DVI">Video recording</a></td>
     <td></td>
   </tr>
 </table>
