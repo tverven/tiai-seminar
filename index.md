@@ -31,11 +31,23 @@ The seminar is an international online event focused on exploring the theoretica
     <tr>
     <td>November&nbsp;11</td>
     <td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
-    <td>TBA</td>
+    <td>Informative explanations only exist for simple functions</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>Many researchers have suggested that local post-hoc
+            explanation algorithms can be used to gain insights into the
+            behavior of complex machine learning models. However,
+            theoretical guarantees about such algorithms only exist for
+            simple decision functions, and one might wonder why is this
+            the case. In my talk I'll introduce a general,
+            learning-theory-based framework for what it means for an
+            explanation to provide information about a decision
+            function. With this approach, we show that many popular
+            explanation algorithms are not informative when applied to
+            complex decision functions, providing a rigorous
+            mathematical rejection of the idea that it should be
+            possible to explain any model.</p>
         </details>
     </td>
     <td></td>
