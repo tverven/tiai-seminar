@@ -29,6 +29,20 @@ The seminar is an international online event focused on exploring the theoretica
 
 <table>
     <tr>
+    <td>February&nbsp;12</td>
+    <td><a href="https://sites.google.com/view/damien-garreau/home">Damien
+    Garreau</a></td>
+    <td>TBA</td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p></p>
+        </details>
+    </td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td>November&nbsp;11</td>
     <td><a href="http://tml.cs.uni-tuebingen.de/team/luxburg/">Ulrike von Luxburg</a></td>
     <td>Informative explanations only exist for simple functions</td>
