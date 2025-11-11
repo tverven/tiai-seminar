@@ -45,11 +45,43 @@ The seminar is an international online event focused on exploring the theoretica
   <tr>
     <td>December&nbsp;11</td>
     <td><a href="https://github.com/Chaoukia">Ayman Chaouki</a></td>
-    <td>TBA</td>
+    <td>Branches: Efficiently Seeking Optimal Sparse Decision Trees via AO*</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>Abstract: Decision Tree (DT) Learning is a fundamental
+            problem in Interpretable Machine Learning, yet it poses a
+            formidable optimisation challenge. Practical algorithms have
+            recently emerged, primarily leveraging Dynamic Programming
+            and Branch & Bound. However, most of these approaches rely
+            on a Depth-First-Search strategy, which is inefficient when
+            searching for DTs at high depths and requires the definition
+            of a maximum depth hyperparameter. Best-First-Search was
+            also employed by other methods to circumvent these issues.
+            The downside of this strategy is its higher memory
+            consumption, as such, it has to be designed in a fully
+            efficient manner that takes full advantage of the problem’s
+            structure. We formulate the problem within an AND/OR graph
+            search framework and we solve it with a novel AO*-type
+            algorithm called BRANCHES. We prove both optimality and
+            complexity guarantees for BRANCHES and we show that it is
+            more efficient than the state of the art theoretically and
+            on a variety of experiments. Furthermore, BRANCHES supports
+            nonbinary features unlike the other methods, we show that
+            this property can further induce larger gains in
+            computational efficiency.</p>
+
+            <p>Bio: I am Ayman Chaouki, I pursued a dual PhD program
+            co-supervised between Ecole Polytechnique (France) and the
+            University of Waikato (New Zealand). My work pertained to
+            seeking Decision Trees that simultaneously maximise accuracy
+            and minimise the number of splits, which is an important
+            property to have from an interpretability perspective. After
+            my PhD, I joined LIX lab as a postdoc where I worked on
+            interpretable graph-based methods for fraud detection in
+            credit card transactions. Then I joined HrFlow.ai, the
+            company where I currently work as an AI Researcher on
+            Embedding problems within the HrTech domain.</p>
         </details>
     </td>
     <td></td>
