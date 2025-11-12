@@ -12,6 +12,6 @@ build up an international community around this topic.
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
 * [Tim van Erven](https://www.timvanerven.nl/)
 
-### Previous Organizers
+### Previous Organizers:
 * [Suraj Srinivas](https://suraj-srinivas.github.io/): 2024-2025
 
