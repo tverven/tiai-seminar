@@ -20,7 +20,6 @@ The seminar is an international online event focused on exploring the theoretica
 
 ### Organizers:
 * [Michal Moshkovitz](https://sites.google.com/view/michal-moshkovitz/home)
-* [Suraj Srinivas](https://suraj-srinivas.github.io/)
 * [Tim van Erven](https://www.timvanerven.nl/)
 
 ## Schedule
