@@ -109,7 +109,7 @@ The seminar is an international online event focused on exploring the theoretica
             possible to explain any model.</p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/AsJB4kym4Tc">Video recording</a></td>
   </tr>
 
     <tr>
