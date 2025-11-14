@@ -43,6 +43,19 @@ The seminar is an international online event focused on exploring the theoretica
   </tr>
 
   <tr>
+    <td>January&nbsp;15</td>
+    <td><a href="https://www.chhaviyadav.org/">Chhavi Yadav</a></td>
+    <td>TBA</td>
+    <td>
+        <details>
+            <summary>Abstract</summary>
+            <p></p>
+        </details>
+    </td>
+    <td></td>
+  </tr>
+
+  <tr>
     <td>December&nbsp;11</td>
     <td><a href="https://github.com/Chaoukia">Ayman Chaouki</a></td>
     <td>Branches: Efficiently Seeking Optimal Sparse Decision Trees via AO*</td>
