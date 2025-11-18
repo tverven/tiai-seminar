@@ -45,11 +45,42 @@ The seminar is an international online event focused on exploring the theoretica
   <tr>
     <td>January&nbsp;15</td>
     <td><a href="https://www.chhaviyadav.org/">Chhavi Yadav</a></td>
-    <td>TBA</td>
+    <td>ExpProof : Operationalizing Explanations for Confidential Models with ZKPs</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>Abstract: In principle, explanations are intended as a
+            way to increase trust in machine learning models and are
+            often obligated by regulations. However, many circumstances
+            where these are demanded are adversarial in nature, meaning
+            the involved parties have misaligned interests and are
+            incentivized to manipulate explanations for their purpose.
+            As a result, explainability methods fail to be operational
+            in such settings despite the demand (Bordt et al., 2022). In
+            this paper, we take a step towards operationalizing
+            explanations in adversarial scenarios with Zero-Knowledge
+            Proofs (ZKPs), a cryptographic primitive. Specifically we
+            explore ZKP-amenable versions of the popular explainability
+            algorithm LIME and evaluate their performance on Neural
+            Networks and Random Forests. Our code is publicly available
+            at <a href="https:// github.com/emlaufer/ExpProof">https://
+            github.com/emlaufer/ExpProof</a>.</p>
+
+            <p>Bio: Chhavi Yadav is a postdoctoral researcher at CMU,
+            advised by Prof. Virginia Smith. She obtaind her PhD from
+            UCSD and Bachelor of Engineering from the University of Pune
+            where she was awarded the Chancellor’s Gold Medal. Her
+            research interests are in the foundations of
+            “Incentive-Aware Trustworthy AI” for the real-world, with
+            current focus on AI privacy, safety and security. Her work
+            won the NCWIT Collegiate 2025 Finalist Award, AAAI Doctoral
+            Consortium 2025 Award, Rising Star in Data Science 2024
+            Award, Best Paper Award at the ICLR'24 Privacy Workshop and
+            a Best Paper Honorable Mention at the Neurips'19 ML4Health
+            Workshop. Her efforts in increasing diversity and inclusion
+            at UCSD have been recognized with a 'Contributions to
+            Diversity' Award. She also received the Kunzel Powell and
+            Jacobs School of Engineering Fellowships at UCSD.</p>
         </details>
     </td>
     <td></td>
