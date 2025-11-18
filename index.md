@@ -63,8 +63,8 @@ The seminar is an international online event focused on exploring the theoretica
             explore ZKP-amenable versions of the popular explainability
             algorithm LIME and evaluate their performance on Neural
             Networks and Random Forests. Our code is publicly available
-            at <a href="https:// github.com/emlaufer/ExpProof">https://
-            github.com/emlaufer/ExpProof</a>.</p>
+            at [https:// github.com/emlaufer/ExpProof](https://
+            github.com/emlaufer/ExpProof).</p>
 
             <p>Bio: Chhavi Yadav is a postdoctoral researcher at CMU,
             advised by Prof. Virginia Smith. She obtaind her PhD from
