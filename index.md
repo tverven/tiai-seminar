@@ -128,7 +128,7 @@ The seminar is an international online event focused on exploring the theoretica
             Embedding problems within the HrTech domain.</p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/KunGyRGbRdk">Video recording</a></td>
   </tr>
 
   <tr>
