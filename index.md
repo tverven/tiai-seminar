@@ -67,7 +67,7 @@ For past organizers see the [About page](about.html).
   <tr>
     <td>January&nbsp;15</td>
     <td><a href="https://www.chhaviyadav.org/">Chhavi Yadav</a></td>
-    <td>ExpProof : Operationalizing Explanations for Confidential Models with ZKPs</td>
+    <td>ExpProof: Operationalizing Explanations for Confidential Models with ZKPs</td>
     <td>
         <details>
             <summary>Abstract</summary>
@@ -105,7 +105,7 @@ For past organizers see the [About page](about.html).
             Jacobs School of Engineering Fellowships at UCSD.</p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/ylW3H--g7SU">Video recording</a></td>
   </tr>
 
   <tr>
