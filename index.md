@@ -32,11 +32,31 @@ The seminar is an international online event focused on exploring the theoretica
     <td>February&nbsp;12</td>
     <td><a href="https://sites.google.com/view/damien-garreau/home">Damien
     Garreau</a></td>
-    <td>TBA</td>
+    <td>Understanding Steering Strength: A Theoretical Perspective</td>
     <td>
         <details>
             <summary>Abstract</summary>
-            <p></p>
+            <p>A natural next step for XAI is to move from interpreting
+            high-level concepts to intervening on them, enabling
+            principled post-training control of learned models. In the
+            last few years, a popular approach emerged: *steering* the
+            intermediate latent representations. Namely, identify a
+            well-chosen direction associated to a concept and perturbs
+            representations along this direction at inference time.
+            While many propositions exist to pick this direction,
+            considerably less is understood about how to choose the
+            magnitude of the move, whereas its importance is clear: too
+            little and the intended behavior does not emerge, too much
+            and the model's performance degrades beyond repair. In this
+            work, we propose the first theoretical analysis of steering
+            strength. We characterize its effect on next token
+            probability, presence of a concept, and cross-entropy,
+            deriving precise qualitative laws governing these
+            quantities. Our analysis reveals surprising behaviors,
+            including non-monotonic effects of steering magnitude. We
+            validate our theoretical predictions empirically on ten
+            language models, ranging from a small GPT architecture to
+            state-of-the-art models.</p>
         </details>
     </td>
     <td></td>
