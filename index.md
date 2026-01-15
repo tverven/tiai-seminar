@@ -23,6 +23,8 @@ The seminar is an international online event focused on exploring the theoretica
 * [Shahaf Bassan](https://bassanshahaf.github.io/shahaf.bassan.github.io/)
 * [Tim van Erven](https://www.timvanerven.nl/)
 
+For past organizers see the [About page](about.html). 
+
 ## Schedule
 
 ### 2025/2026
