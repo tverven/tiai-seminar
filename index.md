@@ -30,6 +30,15 @@ For past organizers see the [About page](about.html).
 ### 2025/2026
 
 <table>
+
+    <tr>
+    <td>March&nbsp;5</td>
+    <td><a href="https://fedeadolfi.github.io/">Federico Adolfi</a></td>
+    <td>TBD</td>
+    <td>
+    </td>
+    <td></td>
+  </tr>
   <tr>
     <td>February&nbsp;12</td>
     <td><a href="https://sites.google.com/view/damien-garreau/home">Damien
