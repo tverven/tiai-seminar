@@ -30,11 +30,20 @@ For past organizers see the [About page](about.html).
 ### 2025/2026
 
 <table>
-
+    <tr>
+    <td>April&nbsp;9</td>
+    <td><a href="https://antonxue.github.io/">Anton Xue</a></td>
+    <td>Stability Guarantees for Feature Attributions with Multiplicative Smoothing
+</td>
+    <td>
+    </td>
+    <td></td>
+  </tr>
     <tr>
     <td>March&nbsp;5</td>
     <td><a href="https://fedeadolfi.github.io/">Federico Adolfi</a></td>
-    <td>TBD</td>
+    <td>The Computational Complexity of Circuit Discovery for Inner Interpretability
+</td>
     <td>
     </td>
     <td></td>
