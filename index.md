@@ -78,6 +78,10 @@ For past organizers see the [About page](about.html).
             validate our theoretical predictions empirically on ten
             language models, ranging from a small GPT architecture to
             state-of-the-art models.</p>
+
+            <p>
+            <a href="https://arxiv.org/abs/2602.02712">ArXiv preprint</a>
+            </p>
         </details>
     </td>
     <td></td>
