@@ -84,7 +84,7 @@ For past organizers see the [About page](about.html).
             </p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/qI4oVWhvz-4">Video recording</a></td>
   </tr>
 
   <tr>
