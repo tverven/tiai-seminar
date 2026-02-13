@@ -82,6 +82,9 @@ For past organizers see the [About page](about.html).
             <p>
             <a href="https://arxiv.org/abs/2602.02712">ArXiv preprint</a>
             </p>
+            <p>
+            <a href="/assets/slides/Garreau-slides2026.pdf">slides</a>
+            </p>
         </details>
     </td>
     <td><a href="https://youtu.be/qI4oVWhvz-4">Video recording</a></td>
