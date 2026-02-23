@@ -34,7 +34,7 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>April&nbsp;9</td>
     <td><a href="https://antonxue.github.io/">Anton Xue</a></td>
-    <td>Stability Guarantees for Feature Attributions with Multiplicative Smoothing
+    <td>TBD
 </td>
     <td>
     </td>
@@ -43,9 +43,16 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>March&nbsp;5</td>
     <td><a href="https://fedeadolfi.github.io/">Federico Adolfi</a></td>
-    <td>The Computational Complexity of Circuit Discovery for Inner Interpretability
+    <td>A complexity-theoretic view of inner interpretability and its integration with experimental efforts
 </td>
     <td>
+              <details>
+            <summary>Abstract</summary>
+            <p>Abstract: Modern AI systems can be architecturally transparent and yet mechanistically opaque. This can undermine applications of AI in science and society, and motivates the development of post-hoc inner interpretability methods with potential roles in scientific modeling, alignment, regulation and compliance. Current methods offer promising but sometimes puzzling results. Meanwhile, there are concerns about scalability and 'interpretability illusions' at a time when we have little knowledge of the conditions that make interpretability feasible. I will argue that these issues have a natural framing in computational complexity theory that can turn out to be productive in understanding the challenges and explaining empirical results. As a case study, I will present work involving conceptualization, formalization, and parameterized complexity analyses of circuit discovery queries for inner interpretability. Then I will zoom out to discuss what this perspective can contribute to complement classical approaches. I will suggest that the field of interpretability could benefit from integration of complexity-theoretic and experimental work. I will spell out one strategy for doing so — a framework to guide the discovery of interpretability methods with adequate performance and knowledge of the conditions that make it possible.</p>
+
+            <p>Bio: Federico Adolfi is currently a research scientist at ESI Neuroscience, Max Planck Society. During his PhD, he worked at the intersection of Theoretical Computer Science and the Cognitive and Brain Sciences at University of Bristol. His work uses formal, computational, and experimental methods to approach meta-theoretical problems in AI and the Cognitive Sciences, such as the inner interpretability of natural and artificial complex systems.
+</p>
+        </details>
     </td>
     <td></td>
   </tr>
