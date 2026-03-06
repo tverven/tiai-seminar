@@ -54,7 +54,7 @@ For past organizers see the [About page](about.html).
 </p>
         </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/ecg4iDzLn2Q">Video recording</a></td>
   </tr>
   <tr>
     <td>February&nbsp;12</td>
