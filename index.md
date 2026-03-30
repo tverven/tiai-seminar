@@ -34,7 +34,17 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>April&nbsp;9</td>
     <td><a href="https://antonxue.github.io/">Anton Xue</a></td>
-    <td>TBD
+    <td>              <details>
+            <summary>Robust Feature Selection for Trustworthy AI</summary>
+            <p>Abstract: From vision models in self-driving cars that fail to identify pedestrians to large language models that hallucinate fallacious reasoning, modern AI systems lack reliability. This brittleness, where a system can inexplicably fail to behave as intended, makes AI hard to trust. How, then, can we certify reliability in these black-box systems?
+
+We argue that at the heart of these reliability failures is a fundamental challenge: robust feature selection. Whether selecting pixels to explain a prediction or prior statements to justify a logical step, the core task is to identify a set of input features that reliably determines the output. We introduce a general, model-agnostic framework for providing rigorous statistical guarantees on the robustness of any feature selection method. The core mechanism is to model the selected features as a probabilistic set and efficiently certify the output's stability through sampling; specifically, its robustness to perturbations in the choice of features.
+
+This approach provides practical guarantees for the classic problem of feature attributions in explainable AI. Crucially, the same framework extends naturally to modern challenges in LLM reasoning. By treating prior claims in a chain-of-thought as features for the next step, the method inductively certifies each successive claim. This process yields a quantitative measure of reliability for the LLM's reasoning and provides a diagnostic that accurately identifies the source of logical errors. Ultimately, this framework reveals that solving the fundamental challenge of robust feature selection is key to building AI systems that are not just powerful but also trustworthy.</p>
+
+            <p>Bio: Anton Xue is a postdoctoral fellow at the University of Texas at Austin's NSF AI Institute for Foundations of Machine Learning, hosted by Sanjay Shakkottai and Adam Klivans. He works at the intersection of generative AI and formal methods, currently focusing on discrete diffusion language models for code. He received his Ph.D. from the University of Pennsylvania in 2025 under the supervision of Rajeev Alur and Eric Wong, where he worked on the verification and explainability of machine learning models.
+</p>
+        </details>
 </td>
     <td>
     </td>
