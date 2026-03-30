@@ -33,9 +33,10 @@ For past organizers see the [About page](about.html).
 <table>
     <tr>
     <td>April&nbsp;9</td>
-    <td><a href="https://antonxue.github.io/">Anton Xue</a></td>
+    <td><a href="https://antonxue.github.io/">Anton Xue</a></td>    <td>Robust Feature Selection for Trustworthy AI
+</td>
     <td>              <details>
-            <summary>Robust Feature Selection for Trustworthy AI</summary>
+            <summary>Abstract</summary>
             <p>Abstract: From vision models in self-driving cars that fail to identify pedestrians to large language models that hallucinate fallacious reasoning, modern AI systems lack reliability. This brittleness, where a system can inexplicably fail to behave as intended, makes AI hard to trust. How, then, can we certify reliability in these black-box systems?
 
 We argue that at the heart of these reliability failures is a fundamental challenge: robust feature selection. Whether selecting pixels to explain a prediction or prior statements to justify a logical step, the core task is to identify a set of input features that reliably determines the output. We introduce a general, model-agnostic framework for providing rigorous statistical guarantees on the robustness of any feature selection method. The core mechanism is to model the selected features as a probabilistic set and efficiently certify the output's stability through sampling; specifically, its robustness to perturbations in the choice of features.
