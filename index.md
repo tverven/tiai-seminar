@@ -32,6 +32,17 @@ For past organizers see the [About page](about.html).
 
 <table>
     <tr>
+    <td>May&nbsp;21</td>
+    <td><a href="https://shavitlab.csail.mit.edu/">Nir Shavit</a></td>    <td>TBD
+</td>
+    <td>
+</td>
+    <td>
+    </td>
+    <td></td>
+  </tr>
+  
+    <tr>
     <td>April&nbsp;9</td>
     <td><a href="https://antonxue.github.io/">Anton Xue</a></td>    <td>Robust Feature Selection for Trustworthy AI
 </td>
