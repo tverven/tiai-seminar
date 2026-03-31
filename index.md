@@ -28,7 +28,7 @@ For past organizers see the [About page](about.html).
 
 ## Schedule
 
-### 2025/2026
+### 2026/2027
 
 <table>
     <tr>
@@ -39,6 +39,11 @@ For past organizers see the [About page](about.html).
     <td></td>
     <td></td>
   </tr>
+</table>
+
+### 2025/2026
+
+<table>
     <tr>
     <td>July&nbsp;16</td>
     <td>TBA</td>
