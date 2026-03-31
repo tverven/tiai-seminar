@@ -32,6 +32,30 @@ For past organizers see the [About page](about.html).
 
 <table>
     <tr>
+    <td>September&nbsp;10</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>July&nbsp;16</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>June&nbsp;18</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
     <td>May&nbsp;21</td>
     <td><a href="https://shavitlab.csail.mit.edu/">Nir Shavit</a></td>    <td>Toy Models of Combinatorial Interpretability
 </td>
