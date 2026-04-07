@@ -54,7 +54,7 @@ For past organizers see the [About page](about.html).
   </tr>
     <tr>
     <td>June&nbsp;18</td>
-    <td>Donya Saless</td>
+    <td><a href="https://donyasaless.github.io/">Donya Saless</a></td>
     <td>Proofs as Explanations: Short Certificates for Reliable Predictions</td>
     <td></td>
     <td></td>
