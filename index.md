@@ -50,13 +50,11 @@ For past organizers see the [About page](about.html).
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
     <tr>
     <td>June&nbsp;18</td>
     <td><a href="https://donyasaless.github.io/">Donya Saless</a></td>
     <td>Proofs as Explanations: Short Certificates for Reliable Predictions</td>
-    <td></td>
     <td></td>
     <td></td>
   </tr>
@@ -74,7 +72,6 @@ For past organizers see the [About page](about.html).
 </td>
     <td>
     </td>
-    <td></td>
   </tr>
   
     <tr>
@@ -95,7 +92,6 @@ This approach provides practical guarantees for the classic problem of feature a
 </td>
     <td>
     </td>
-    <td></td>
   </tr>
     <tr>
     <td>March&nbsp;5</td>
