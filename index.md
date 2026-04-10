@@ -90,8 +90,7 @@ This approach provides practical guarantees for the classic problem of feature a
 </p>
         </details>
 </td>
-    <td>
-    </td>
+    <td><a href="https://youtu.be/JMhcllLDGK4">Video recording</a></td>
   </tr>
     <tr>
     <td>March&nbsp;5</td>
