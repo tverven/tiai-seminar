@@ -39,6 +39,22 @@ For past organizers see the [About page](about.html).
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td>October&nbsp;15</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>November&nbsp;5</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 ### 2025/2026
