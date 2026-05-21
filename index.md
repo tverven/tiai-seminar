@@ -37,7 +37,6 @@ For past organizers see the [About page](about.html).
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
     <tr>
     <td>October&nbsp;15</td>
@@ -45,12 +44,10 @@ For past organizers see the [About page](about.html).
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
     <tr>
     <td>November&nbsp;5</td>
     <td>TBA</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -86,8 +83,7 @@ For past organizers see the [About page](about.html).
 </p>
         </details>
 </td>
-    <td>
-    </td>
+    <td><a href="https://youtu.be/G6BIBqzPoFY">Video recording</a></td>
   </tr>
   
     <tr>
@@ -762,6 +758,7 @@ A Sea of Words: An In-Depth Analysis of Anchors for Text Data
         </p>
     </details>
 </td>
+<td></td>
 </tr>
 
 </table>
