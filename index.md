@@ -68,7 +68,16 @@ For past organizers see the [About page](about.html).
     <td>June&nbsp;18</td>
     <td><a href="https://donyasaless.github.io/">Donya Saless</a></td>
     <td>Proofs as Explanations: Short Certificates for Reliable Predictions</td>
-    <td></td>
+    <td>
+      <details>
+        <summary>Abstract</summary>
+        <p>Modern AI systems are increasingly asked not only to make accurate predictions, but also to justify when those predictions should be trusted. In this talk, I will present a framework for proof-based explanations, where an explanation for a prediction is a small subset of the training data that certifies the prediction's correctness. Concretely, given a hypothesis class H, a test point x, and a corruption budget b, we ask whether there is a short subset S′ of the training set such that every classifier in H making at most b mistakes on S′ must assign the same label to x. Such a subset acts as a robust certificate: it proves the prediction under the assumptions that the true classifier lies in H and that the training data contains at most b corrupted examples.</p>
+
+        <p>I will describe how the size of the shortest such certificate is governed by a combinatorial parameter we call the robust hollow star number, which generalizes the hollow star number from learning theory. This parameter exactly characterizes worst-case certificate size. I will also discuss distributional guarantees: when examples are drawn from a data distribution, the difficulty of certifying a particular test point is captured by a new quantity, the certificate coefficient, which measures how far the point is from the decision boundary relative to the distribution. Finally, I will discuss how reweighting the data distribution can lead to substantially shorter certificates, suggesting algorithmic directions for producing reliable, compact explanations in practice.</p>
+
+        <p>Bio: Donya Saless is a Ph.D. candidate at Toyota Technological Institute at Chicago, advised by Avrim Blum, where she started her Ph.D. research in 2024. Her research lies at the intersection of machine learning and theoretical computer science, with a focus on well-defined aspects of safety and trustworthiness in machine learning, including robustness, reliability, and explainability with provable guarantees. She develops algorithmic and statistical frameworks for studying these properties. She has spent time as a visiting researcher at Carnegie Mellon University, hosted by Andrej Risteski, and Columbia University, hosted by Daniel Hsu. She was a long-term participant at the Simons Institute program on Federated and Collaborative Learning in January-May 2026. In summer 2026, Donya will intern at Google DeepMind Foundations team. She received her B.Sc. in Electrical Engineering as well as Computer Engineering from the University of Tehran with highest distinctions.</p>
+      </details>
+    </td>
     <td></td>
   </tr>
     <tr>
