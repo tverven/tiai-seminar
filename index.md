@@ -33,7 +33,7 @@ For past organizers see the [About page](about.html).
 <table>
     <tr>
     <td>September&nbsp;10</td>
-    <td>TBA</td>
+    <td><a href="https://www.mhahn.info/">Michael Hahn</a></td>
     <td></td>
     <td></td>
     <td></td>
