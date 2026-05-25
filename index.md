@@ -32,15 +32,10 @@ For past organizers see the [About page](about.html).
 
 <table>
     <tr>
-    <td>September&nbsp;10</td>
-    <td><a href="https://www.mhahn.info/">Michael Hahn</a></td>
-    <td>Discovering Interpretable Algorithms by Decompiling Transformers to RASP</td>
-    <td>
-      <details>
-        <summary>Abstract</summary>
-        <p>Recent work has shown that the computations of Transformers can be simulated in the RASP family of programming languages, and that transformers often generalize well on tasks with short RASP programs. However, it remains open whether trained models actually implement interpretable RASP programs. In this paper, we present a general method to extract such programs from trained Transformers. The idea is to faithfully re-parameterize a Transformer as a RASP program and then apply causal interventions to discover a small sufficient sub-program. In experiments on small Transformers trained on algorithmic and formal language tasks, we show that our method often recovers simple and interpretable RASP programs from length-generalizing transformers. Our results provide the most direct evidence so far that Transformers internally implement simple RASP programs.</p>
-      </details>
-    </td>
+    <td>November&nbsp;5</td>
+    <td>TBA</td>
+    <td></td>
+    <td></td>
     <td></td>
   </tr>
     <tr>
@@ -51,10 +46,15 @@ For past organizers see the [About page](about.html).
     <td></td>
   </tr>
     <tr>
-    <td>November&nbsp;5</td>
-    <td>TBA</td>
-    <td></td>
-    <td></td>
+    <td>September&nbsp;10</td>
+    <td><a href="https://www.mhahn.info/">Michael Hahn</a></td>
+    <td>Discovering Interpretable Algorithms by Decompiling Transformers to RASP</td>
+    <td>
+      <details>
+        <summary>Abstract</summary>
+        <p>Recent work has shown that the computations of Transformers can be simulated in the RASP family of programming languages, and that transformers often generalize well on tasks with short RASP programs. However, it remains open whether trained models actually implement interpretable RASP programs. In this paper, we present a general method to extract such programs from trained Transformers. The idea is to faithfully re-parameterize a Transformer as a RASP program and then apply causal interventions to discover a small sufficient sub-program. In experiments on small Transformers trained on algorithmic and formal language tasks, we show that our method often recovers simple and interpretable RASP programs from length-generalizing transformers. Our results provide the most direct evidence so far that Transformers internally implement simple RASP programs.</p>
+      </details>
+    </td>
     <td></td>
   </tr>
 </table>
