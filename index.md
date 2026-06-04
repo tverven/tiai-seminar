@@ -64,7 +64,7 @@ For past organizers see the [About page](about.html).
 <table>
     <tr>
     <td>July&nbsp;16</td>
-    <td>TBA</td>
+    <td><a href="https://shauli-ravfogel.netlify.app/">Shauli Ravfogel</a></td>
     <td></td>
     <td></td>
     <td></td>
