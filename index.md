@@ -65,8 +65,15 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>July&nbsp;16</td>
     <td><a href="https://shauli-ravfogel.netlify.app/">Shauli Ravfogel</a></td>
-    <td></td>
-    <td></td>
+    <td>Geometric Factual Recall in Transformers</td>
+    <td>
+      <details>
+        <summary>Abstract</summary>
+        <p>In this talk, I'll offer one possible theoretical account of how transformer language models might store and retrieve factual associations. Instead of treating weight matrices as associative memories over unstructured embedding pairs, which forces parameters to scale linearly with the number of facts, I'll explore a geometric alternative in which learned embeddings encode relational structure directly. In a controlled setting where a single-layer transformer memorizes random bijections from subjects to a shared attribute set, we show that a logarithmic embedding dimension can suffice: each subject embedding stores a linear superposition of its attribute vectors, and a small MLP acts as a relation-conditioned selector via ReLU gating rather than as a key-value lookup. I'll sketch how this extends to multi-hop queries, with a capacity-depth tradeoff and a matching lower bound, and I'll show that gradient descent tends to recover the predicted structure, with linear probes picking up similar geometry in real pretrained models. Suggestively, once trained, the MLP can transfer zero-shot to new bijections when subject embeddings are reinitialized appropriately, hinting that it may have learned a generic selection mechanism rather than memorized specific facts.</p>
+
+        <p>Bio: Shauli Ravfogel is a Faculty Fellow at the NYU Center for Data Science. He completed his PhD at the Natural Language Processing Lab at Bar-Ilan University under the supervision of Prof. Yoav Goldberg. His research focuses on interpretability, representation learning, and causal analysis of language models, with particular interest in methods for identifying and controlling the concepts encoded in neural representations. He was awarded the Fulbright Postdoctoral Fellowship, the Vatat Postdoctoral Fellowship in Data Science, and the DAAD AInet Postdoctoral Fellowship.</p>
+      </details>
+    </td>
     <td></td>
   </tr>
     <tr>
