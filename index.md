@@ -90,7 +90,7 @@ For past organizers see the [About page](about.html).
         <p>Bio: Donya Saless is a Ph.D. candidate at Toyota Technological Institute at Chicago, advised by Avrim Blum, where she started her Ph.D. research in 2024. Her research lies at the intersection of machine learning and theoretical computer science, with a focus on well-defined aspects of safety and trustworthiness in machine learning, including robustness, reliability, and explainability with provable guarantees. She develops algorithmic and statistical frameworks for studying these properties. She has spent time as a visiting researcher at Carnegie Mellon University, hosted by Andrej Risteski, and Columbia University, hosted by Daniel Hsu. She was a long-term participant at the Simons Institute program on Federated and Collaborative Learning in January-May 2026. In summer 2026, Donya will intern at Google DeepMind Foundations team. She received her B.Sc. in Electrical Engineering as well as Computer Engineering from the University of Tehran with highest distinctions.</p>
       </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/r39iRaWymT8">Video recording</a></td>
   </tr>
     <tr>
     <td>May&nbsp;21</td>
