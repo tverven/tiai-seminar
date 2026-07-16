@@ -74,7 +74,7 @@ For past organizers see the [About page](about.html).
         <p>Bio: Shauli Ravfogel is a Faculty Fellow at the NYU Center for Data Science. He completed his PhD at the Natural Language Processing Lab at Bar-Ilan University under the supervision of Prof. Yoav Goldberg. His research focuses on interpretability, representation learning, and causal analysis of language models, with particular interest in methods for identifying and controlling the concepts encoded in neural representations. He was awarded the Fulbright Postdoctoral Fellowship, the Vatat Postdoctoral Fellowship in Data Science, and the DAAD AInet Postdoctoral Fellowship.</p>
       </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/mRRVU0zD208">Video recording</a></td>
   </tr>
     <tr>
     <td>June&nbsp;18</td>
