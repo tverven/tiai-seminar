@@ -40,7 +40,7 @@ For past organizers see the [About page](about.html).
   </tr>
     <tr>
     <td>October&nbsp;15</td>
-    <td>TBA</td>
+    <td><a href="https://eps.leeds.ac.uk/computing/staff/8786/dr-sebastian-ordyniak">Sebastian Ordyniak</a></td>
     <td></td>
     <td></td>
     <td></td>
