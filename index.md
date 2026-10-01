@@ -41,8 +41,19 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>October&nbsp;15</td>
     <td><a href="https://eps.leeds.ac.uk/computing/staff/8786/dr-sebastian-ordyniak">Sebastian Ordyniak</a></td>
-    <td></td>
-    <td></td>
+    <td>Learning and Explaining Symbolic ML Models: A Parameterised Complexity Perspective</td>
+    <td>
+      <details>
+        <summary>Abstract</summary>
+        <p>Symbolic machine-learning models, such as decision trees and rule-based classifiers, are attractive when predictions need to be understood and scrutinised. Yet an explicit model does not make every computational task easy: learning a smallest model from data and finding a concise formal explanation of its behaviour can both be intractable. Which properties of the data and the model make these tasks tractable?</p>
+
+        <p>This talk surveys recent results on these questions through the lens of parameterised complexity. We consider decision trees, decision sets, decision lists, binary decision diagrams, and their ensembles. In Part I, we study the problem of learning a smallest model consistent with labelled training data. We explain how parameters describing model size and the structure of the data support a general framework for exact learning, and where hardness results limit this approach. In Part II, we turn to a fixed model and the computation of local and global abductive and contrastive explanations, distinguishing minimum-size from subset-minimal solutions. We examine how the model representation and its structural parameters determine the complexity of these tasks, and highlight tractability results obtained through compilation into Boolean circuits.</p>
+
+        <p>Together, these results clarify when compact models and concise explanations can be computed efficiently, and identify open problems in learning and formal explainability.</p>
+
+        <p>Bio: Sebastian Ordyniak is an Associate Professor in the Algorithms and Complexity group at the University of Leeds. His research concerns the design and analysis of algorithms for computationally hard problems in combinatorial optimisation, artificial intelligence, machine learning, and logic, with a particular focus on parameterised complexity. He studies how structural properties of problem instances enable efficient exact algorithms, as well as the limits of such approaches. He obtained his Diplom from Humboldt University Berlin and his PhD from the University of Oxford, and previously held positions at the University of Sheffield, TU Wien, and Masaryk University in Brno.</p>
+      </details>
+    </td>
     <td></td>
   </tr>
     <tr>
