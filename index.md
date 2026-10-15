@@ -54,7 +54,7 @@ For past organizers see the [About page](about.html).
         <p>Bio: Sebastian Ordyniak is an Associate Professor in the Algorithms and Complexity group at the University of Leeds. His research concerns the design and analysis of algorithms for computationally hard problems in combinatorial optimisation, artificial intelligence, machine learning, and logic, with a particular focus on parameterised complexity. He studies how structural properties of problem instances enable efficient exact algorithms, as well as the limits of such approaches. He obtained his Diplom from Humboldt University Berlin and his PhD from the University of Oxford, and previously held positions at the University of Sheffield, TU Wien, and Masaryk University in Brno.</p>
       </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/uf0VbKMf7bQ">Video recording</a></td>
   </tr>
     <tr>
     <td>September&nbsp;10</td>
