@@ -32,8 +32,8 @@ For past organizers see the [About page](about.html).
 
 <table>
     <tr>
-    <td>November&nbsp;5</td>
-    <td>TBA</td>
+    <td>November&nbsp;12</td>
+    <td><a href="https://ludovicschwartz.github.io/">Ludovic Schwartz</a></td>
     <td></td>
     <td></td>
     <td></td>
