@@ -34,8 +34,15 @@ For past organizers see the [About page](about.html).
     <tr>
     <td>November&nbsp;12</td>
     <td><a href="https://ludovicschwartz.github.io/">Ludovic Schwartz</a></td>
-    <td></td>
-    <td></td>
+    <td>Partially Interpretable Decision Trees</td>
+    <td>
+      <details>
+        <summary>Abstract</summary>
+        <p>Partially interpretable models extend simple interpretable models with the option to defer complicated inputs to an accurate but uninterpretable black-box model. By deferring more inputs, the model gets more accurate; by deferring fewer, it gets more interpretable. Existing procedures to train such partially interpretable models build either on linear models or on decision rules. In this talk, I will present and compare three algorithms to train partially interpretable decision trees. Despite their differences, these algorithms perform similarly in most experiments, and simple algorithms are competitive with more sophisticated methods. We explain this through a theoretical result bounding the gain of deferral-aware training. Then I will talk about an exciting application of partially interpretable models to concept bottleneck models.</p>
+
+        <p>This is joint work with Federico Berton and Tim van Erven.</p>
+      </details>
+    </td>
     <td></td>
   </tr>
     <tr>
