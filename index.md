@@ -43,7 +43,7 @@ For past organizers see the [About page](about.html).
         <p>This is joint work with Federico Berton and Tim van Erven.</p>
       </details>
     </td>
-    <td></td>
+    <td><a href="https://youtu.be/iAJYPPLlozY">Video recording</a></td>
   </tr>
     <tr>
     <td>October&nbsp;15</td>
